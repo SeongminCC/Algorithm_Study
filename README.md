@@ -12,20 +12,13 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
     
     
 # curriculum
-## Simple test
-- 1Week
-
-## Hash
-- 2 ~ 3 Week
-
-## Stack & Queue
-- 4 ~ 6 Week
-
-## Sorting
-- 7 Week
-
-## complete search
-- 8 ~ 10 Week
+| Topic | Weeks |
+| --- | --- |
+| simple test | 1week |
+| hash | 2 ~ 3week |
+| stack/queue | 4 ~ 6week |
+| sorting | 7week |
+| complete search | 8 ~ 10week |
 
 
 ---
