@@ -7,7 +7,7 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
   
     
     
----
+
   
     
     
@@ -21,7 +21,7 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
 | complete search | 8 ~ 10week |
 
 
----
+
 
 # Team Members
 | Position | Name |
@@ -31,7 +31,7 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
 | Team Member | Sunwoo Lee |
 | Team Member | Minwoo Lee |
 
----
+
 
 # Reflections on the Study
 The goal of this study was not to improve coding test scores for employment, but to enhance coding skills. If the goal was to improve scores, we would have solved many problems in a short period of time, but in this study, our goal was to become familiar with coding by solving 2-3 problems per week. The study lasted for about 3 months and I believe we were successful in becoming familiar with how to logically develop and transform problems into code when faced with a challenge.
