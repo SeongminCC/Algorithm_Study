@@ -26,10 +26,10 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
 # Team Members
 | Position | Name |
 | --- | --- |
-| Team Leader | Seongmin Cho |
-| Team Member | Kyungmin Sim |
-| Team Member | Sunwoo Lee |
-| Team Member | Minwoo Lee |
+| Lead | Seongmin Cho |
+| Member | Kyungmin Sim |
+| Member | Sunwoo Lee |
+| Member | Minwoo Lee |
 
 
 
