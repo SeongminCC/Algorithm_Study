@@ -1,6 +1,6 @@
 # Algorithm_Study
 This is an algorithm study group focused on solving coding test problems from the "Coding Test High Score Kit" on the programmers website. We cover topics such as hash, stack/queue, sorting, and complete search, with a focus on improving our problem-solving skills and understanding of algorithms.
-- [programmers](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+- [programmers - Coding Test High Score Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
 
 We conducted the study for a total of 10 weeks, in the first week we did a simple test, and from the second week to the tenth week, we solved problems related to four tasks. Please refer to the content below for the files corresponding to each task.
