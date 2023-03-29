@@ -31,7 +31,7 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
 | Position | Name |
 | --- | --- |
 | Lead | Seongmin Cho |
-| Member | Kyungmin Sim |
+| Member | Gyeongmin Sim |
 | Member | Sunwoo Lee |
 | Member | Minwoo Lee |
 
