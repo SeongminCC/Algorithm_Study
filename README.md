@@ -5,6 +5,7 @@ This is an algorithm study group focused on solving coding test problems from th
 
 We conducted the study for a total of 10 weeks, in the first week we did a simple test, and from the second week to the tenth week, we solved problems related to four tasks. Please refer to the content below for the files corresponding to each task.
 
+# curriculum
 ## Simple test
 - 1Week
 
