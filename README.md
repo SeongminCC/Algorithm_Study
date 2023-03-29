@@ -4,7 +4,7 @@ This is an algorithm study group focused on solving coding test problems from th
 
 <dl>
 <dl>
----
+
 <dl>
 <dl>
 
@@ -29,7 +29,7 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
 <dl>
 <dl>
 
----
+
 <dl>
 <dl>
 
