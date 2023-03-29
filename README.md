@@ -11,7 +11,7 @@ We conducted the study for a total of 10 weeks, in the first week we did a simpl
   
     
     
-# curriculum
+# Curriculum
 | Topic | Weeks |
 | --- | --- |
 | simple test | 1week |
